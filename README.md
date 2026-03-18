@@ -1,4 +1,4 @@
-# Telegram HR Matcher Bot
+
 
 Бот для автоматизации первичного подбора персонала в Telegram.
 
